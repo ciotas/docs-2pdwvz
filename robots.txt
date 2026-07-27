@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-uqbu3p.salamkita.sbs/sitemap.xml
